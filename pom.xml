@@ -12,10 +12,6 @@
 		<java.version>1.8</java.version>
 		<springVersion>5.3.30</springVersion>
 	</properties>
-	<modules>
-		<module>api</module>
-		<module>omod</module>
-	</modules>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
